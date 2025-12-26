@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Nyanyanyanyanyanyanya!",
+  "base_artist": "daniwellP",
+  "createdAt": "2025-12-26T01:19:42.443949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nyanyanyanyanyanyanya!",
+      "artist": "Miku Hatsune",
+      "has_synced": false,
+      "path": "select/01_Nyanyanyanyanyanyanya!_Miku_Hatsune.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nyanyanyanyanyanyanya!",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/02_Nyanyanyanyanyanyanya!_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nyanyanyanyanyanyanya!",
+      "artist": "daniwellP",
+      "has_synced": true,
+      "path": "select/03_Nyanyanyanyanyanyanya!_daniwellP.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nyanyanyanyanyanyanya!",
+      "artist": "Various Artists feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/04_Nyanyanyanyanyanyanya!_Various_Artists_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nyanyanyanyanyanyanya!",
+      "artist": "daniwellP",
+      "has_synced": false,
+      "path": "select/pl_01_Nyanyanyanyanyanyanya!_daniwellP.txt"
+    }
+  ]
+}
